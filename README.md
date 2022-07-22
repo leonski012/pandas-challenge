@@ -1,6 +1,3 @@
-# pandas-challenge
-Module 4 HW
-
 # PyCity Schools Analysis
 
 * As a whole, schools with higher budgets, did not yield better test results. By contrast, schools with higher spending per student actually (\$645-675) underperformed compared to schools with smaller budgets (<\$585 per student).
